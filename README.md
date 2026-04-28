@@ -1,4 +1,4 @@
-# VP Bank Management System (Java Console Application)
+# Bank Management System (Java Console Application)
 
 A console-based **Bank Management System** built in **Java** that allows users to manage customer banking profiles through file storage. This project demonstrates object-oriented programming fundamentals, file handling, customer account management, and menu-driven interaction.
 
